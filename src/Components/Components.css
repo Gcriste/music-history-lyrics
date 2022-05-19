@@ -1,5 +1,10 @@
 .search-container {
-	display: flex;
-	justify-content: center;
-	padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.flexbox {
+  display: flex;
+  justify-content: space-between;
 }
